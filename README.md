@@ -57,7 +57,7 @@ Check out some of my projects:
         <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-        <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
+<!--         <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" /> -->
       </p>
     </td>
   </tr>
