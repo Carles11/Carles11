@@ -79,6 +79,7 @@ Check out some of my projects:
         <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/-CI%2FCD-3E3E3E?logo=githubactions&logoColor=white&style=for-the-badge" />
       </p>
     </td>
   </tr>
