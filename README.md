@@ -48,6 +48,8 @@ Check out some of my projects:
         <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/-EAS-000000?logo=expo&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
       </p>
     </td>
     <td align="top" width="300">
